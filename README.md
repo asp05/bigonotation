@@ -1,2 +1,4 @@
-# bigonotation
-ini adalah tugas big o notation
+# Big O Notaions
+TUgas terkait big o notations dan contohnya
+Nama : Andi Sugara Putra
+Kelas : TIF RM 22A
